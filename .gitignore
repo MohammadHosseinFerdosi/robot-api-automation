@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+results/
+output.xml
+log.html
+report.html
+pabot_results/
+.idea/
+.vscode/
+.DS_Store
+.env
+*.log
